@@ -1,0 +1,5 @@
+{
+    "require": {
+        "kalnoy/cruddy": "~0.5.0"
+    }
+}
